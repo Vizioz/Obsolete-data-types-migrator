@@ -68,7 +68,7 @@ New editor: Umbraco.NestedContent
 
 ## How to run the migrations
 
-1. Change the obsolete data types you want to migrate to use the new editors as described in the list above.
+1. Change the obsolete data types you want to migrate to use the new editors (as in the list above) in the Umbraco back office.
 
 2. Add the following settings to the web.config file, setting them to "true" for whichever migration you would like to run:
 
